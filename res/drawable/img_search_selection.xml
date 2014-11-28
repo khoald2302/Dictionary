@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Khi không làm gì -->
+
+    <item><shape>
+            <solid android:color="#424242" />
+            <!-- Độ rộng và màu viền -->
+            <stroke android:width="1dp" android:color="#FF5722" />
+            <!-- Độ bo góc -->
+            <corners android:bottomLeftRadius="0dp" android:bottomRightRadius="4dp" android:topLeftRadius="0dp" android:topRightRadius="4dp" />
+
+            <padding android:bottom="1dp" android:left="0dp" android:right="1dp" android:top="1dp" />
+        </shape></item>
+
+</selector>

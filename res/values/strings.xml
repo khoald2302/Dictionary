@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="title_activity_search">Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Title -->
+    <string-array name="Title">
+        <item>Anh-Việt</item>
+        <item>Anh-Việt</item>
+        <item>Anh-Việt</item>
+        <item>Anh-Việt</item>
+    </string-array>
+    <!-- URL -->
+
+    <string-array name="URl_LINK">
+        <item>https://docs.google.com/uc?export=download&amp;id=0B7yvSvRAR5IEenhsRk52LVhtcWs</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=0B7yvSvRAR5IEenhsRk52LVhtcWs</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=0B7yvSvRAR5IEenhsRk52LVhtcWs</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=0B7yvSvRAR5IEenhsRk52LVhtcWs</item>
+    </string-array>
+
+    <!-- Size -->
+    <string-array name="Size">
+        <item>1m</item>
+        <item>1m</item>
+        <item>1m</item>
+        <item>1m</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Khi click vào -->
+    <item android:state_pressed="true"><shape>
+
+            <!-- Màu khi click vào -->
+            <solid android:color="#ff5fccff" />
+            <!-- Độ rộng và màu viền -->
+            <stroke android:width="1dp" android:color="#E8E8E8" />
+            <!-- Độ bo góc -->
+            <corners android:radius="40dp" />
+
+            <padding android:bottom="0dp" android:left="0dp" android:right="0dp" android:top="0dp" />
+        </shape></item>
+
+    <!-- Khi không làm gì -->
+
+    <item><shape>
+            <solid android:color="#3C000000" />
+            <!-- Độ rộng và màu viền -->
+            <stroke android:width="1dp" android:color="#E8E8E8" />
+            <!-- Độ bo góc -->
+            <corners android:radius="40dp" />
+
+            <padding android:bottom="0dp" android:left="0dp" android:right="0dp" android:top="0dp" />
+        </shape></item>
+
+</selector>

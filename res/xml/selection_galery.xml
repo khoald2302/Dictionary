@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Khi không làm gì -->
+
+    <item><shape>
+            <solid android:color="#1fffffff" />
+            <!-- Độ rộng và màu viền -->
+            <stroke android:width="2dp" android:color="#3f000000" />
+            <!-- Độ bo góc -->
+            <corners android:radius="10dp" />
+        </shape></item>
+
+</selector>

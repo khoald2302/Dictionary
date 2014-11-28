@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timkiem">Tìm kiếm</string>
+    <string name="tuvung">Từ Vựng</string>
+    <string name="yeuthich">Yêu Thích</string>
+    <string name="setting">Setting</string>
+    <string name="app_name">Từ điển thông minh</string>
+
+</resources>
